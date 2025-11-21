@@ -113,6 +113,8 @@ class AuthController extends Controller
         ], 200);
     }
 
+    
+
     public function resendOtp(Request $request)
     {
 
